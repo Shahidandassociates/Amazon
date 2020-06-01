@@ -1,0 +1,15 @@
+/2020/06/01/hello-world/
+/amazon/
+/amazon/2020/
+/amazon/2020/06/
+/amazon/2020/06/01/
+/amazon/2020/06/01/hello-world/
+/amazon/sample-page/
+/category/uncategorized/
+/category/uncategorized/page/1
+/favicon.ico
+/page/1
+/pages/page/1
+/robots.txt
+/sample-page/
+/sitemap.xml
